@@ -1,0 +1,23 @@
+Menú lateral.
+
+
+Objetivo:
+cambiar el modo de visualización y experiencia de usuario en la aplicacion immp2.
+
+1. primero crear un layout que tenga los espacios para poner el menú, poner un submenú, y el campo de visualización de los resultados del menú ( Experiencia de equipo 3 dias cubriendo tiempo de errores )
+
+2. crear array asosiativos es una manera eficas para recorer los menus y submenu que utilizan  en estos deben estar relacionados los datos del menu ( #2 ). ( 10 dias cubriendo tiempo de errores y ya que la magnitud de los cambios es muy grande ya que se intervienen todos los archivos xhtml )
+
+3. los estilos de los submenu.( 3 dias )
+
+4. crear una la lógica para recorrer el arrary correcto al momento de estar en una pantalla y seleccionar un menú y su este tiene submenú. ( 7 dias indiferente de que se guarde en bases de datos o no este debe permitir selecionar y activar las pantallas dependiendo de el menu o submenu selecconado)
+
+5. usar ajax para mantener actualizados el menu, submenú, contenido del menu-submenu dependiendo de la pantalla o sitio. ( El uso del ajax tiene que hacerse a la par con todas las tareas )
+
+//Recomendaciones 
+ El de demaciado ajax puede representar problemas de rendimiento para el servidor.
+
+ Chequear muchos resultados de una lista y que cada uno tega un evento ajax representa riesgos en rendimiento y en ejeccion de la petición. 
+
+
+ tussolucionesv
