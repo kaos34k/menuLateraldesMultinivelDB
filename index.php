@@ -13,6 +13,7 @@
  </head>
 
  <body>
+
 <?php 
 $mysqli = new mysqli("localhost", "root", "", "menu");
 
